@@ -1,0 +1,39 @@
+Short_Name,Name,Full_Name
+B01001e1,total_pop,SEX BY AGE: Total: Total population -- (Estimate)
+B01001e3,under_5_boys,SEX BY AGE: Male: Under 5 years: Total population -- (Estimate)
+B01001e27,under_5_girls,SEX BY AGE: Female: Under 5 years: Total population -- (Estimate)
+B17001e1,pop_poverty_det,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE: Total: Population for whom poverty status is determined -- (Estimate)
+B17001e2,pop_poverty_yes,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE: Income in the past 12 months below poverty level: Population for whom poverty status is determined -- (Estimate)
+B22003e1,food_stamps_det,RECEIPT OF FOOD STAMPS/SNAP IN THE PAST 12 MONTHS BY POVERTY STATUS IN THE PAST 12 MONTHS FOR HOUSEHOLDS: Total: Households -- (Estimate)
+B22003e2,food_stamps_yes,
+B27001e1,insured_det,
+B27001e5,uninsured1,
+B27001e8,uninsured2,
+B27001e11,uninsured3,
+B27001e14,uninsured4,
+B27001e17,uninsured5,
+B27001e20,uninsured6,
+B27001e23,uninsured7,
+B27001e26,uninsured8,
+B27001e29,uninsured9,
+B27001e33,uninsured10,
+B27001e36,uninsured11,
+B27001e39,uninsured12,
+B27001e42,uninsured13,
+B27001e45,uninsured14,
+B27001e48,uninsured15,
+B27001e51,uninsured16,
+B27001e54,uninsured17,
+B27001e57,uninsured18,
+B01001e20,elder1,
+B01001e21,elder2,
+B01001e22,elder3,
+B01001e23,elder4,
+B01001e24,elder5,
+B01001e25,elder6,
+B01001e44,elder7,
+B01001e45,elder8,
+B01001e46,elder9,
+B01001e47,elder10,
+B01001e48,elder11,
+B01001e49,elder12,
